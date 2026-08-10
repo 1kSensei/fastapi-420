@@ -1,6 +1,6 @@
 # fastapi_420 — Advanced API Rate Limiter
 
-sorry about no folders on the repo, i did not know how to use github at the time.
+Sorry about no folders on the repo, i did not know how to use github at the time. Just follow the architecture section to properly build the file tree manually. Again Sorry.
 
 A production-style rate limiting library: three algorithms, a
 three-layer defense system (per-user → per-endpoint → global +
